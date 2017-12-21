@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chat-App-master.iml" filepath="$PROJECT_DIR$/Chat-App-master.iml" />
+      <module fileurl="file://C:\Users\Dejan\Downloads\Chat-App-master\Chattingapp.iml" filepath="C:\Users\Dejan\Downloads\Chat-App-master\Chattingapp.iml" />
+      <module fileurl="file://C:\Users\Dejan\Downloads\Chat-App-master\app\app.iml" filepath="C:\Users\Dejan\Downloads\Chat-App-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
